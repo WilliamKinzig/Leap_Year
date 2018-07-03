@@ -6,7 +6,7 @@
 
 ## Description
 
-_SPECS_
+
 
 ## Setup/Installation Requirements
 
